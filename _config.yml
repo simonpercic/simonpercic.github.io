@@ -24,10 +24,10 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/simonpercic
   - title: github
     url: https://github.com/simonpercic
+  - title: twitter
+    url: https://twitter.com/simonpercic
   - title: linkedin
     url: https://www.linkedin.com/in/simonpercic
 
