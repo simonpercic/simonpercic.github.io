@@ -10,3 +10,5 @@ description: |
   It enables employers to see an overview of their employees' work logs and perform clock-in for groups of employees at the same time using NFC and QR.
 
   project info: [klika.eu](http://www.klika.eu/spica) &#124; client homepage: [spica.si](http://www.spica.si)
+
+  (Q2 2013)

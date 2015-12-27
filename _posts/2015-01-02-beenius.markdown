@@ -12,3 +12,5 @@ description: |
   My role in the project: lead developer and team lead on Android versions of the app (phone, tablet, STB).
 
   project info: [klika.eu](http://www.klika.eu/beenius) &#124; client homepage: [beenius.tv](http://www.beenius.tv)
+
+  (Q2 2014)
