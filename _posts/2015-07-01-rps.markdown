@@ -5,7 +5,7 @@ category: Projects
 title: Rock Pamper Scissors
 description: |
 ---
-  Rock Pamper Scissors Android app. Search hair salons, see styles, hair pins, stylists and book appointments.
+  Discover hair salons, stylists and new styles & book appointments online.
 
   Tech stack:
 

@@ -5,7 +5,7 @@ category: Projects
 title: GardenTags
 description: |
 ---
-  GardenTags Android app. GardenTags is a community of gardeners from budding novices to expert botanists and everyone in between.
+  GardenTags is a community of gardeners from budding novices to expert botanists and everyone in between.
 
   Tech stack:
 
