@@ -3,13 +3,13 @@
 # ----------------------- #
 
 url: http://simonpercic.github.io
-title: Simon Perčič
+title: Simon Percic
 email: simon@percic.si
-author: Simon Perčič
-description: > # "Write an awesome description for your new site here. 
-  Simon Perčič 
-  Senior Android developer with years of working experience.
-  Full-cycle development, from the concept and project specifications to final production-ready code and support."
+author: Simon Percic
+description: > # "Write an awesome description for your new site here.
+  Simon Percic
+  Engineering Manager
+  Passionate about technology, learning, growth, self-improvement, and coaching.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,14 +24,14 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/simonpercic
   - title: github
     url: https://github.com/simonpercic
   - title: twitter
     url: https://twitter.com/simonpercic
   - title: medium
     url: https://medium.com/@simonpercic
-  - title: linkedin
-    url: https://www.linkedin.com/in/simonpercic
 
 contact:
   - title: email
